@@ -1,0 +1,8 @@
+# 对象存储配置（需要从腾讯云获取）
+cos:
+  client:
+    host: https://zhuqi-1308278073.cos.ap-nanjing.myqcloud.com
+    secretId: AKIDwm3FG3d09C2hBUcYR9g06zoTuMkx0rW4
+    secretKey: ShjaEnAJI7j8KI4f6JKAqMzXwwnSuOmL
+    region: ap-nanjing
+    bucket: zhuqi-1308278073
